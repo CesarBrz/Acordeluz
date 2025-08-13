@@ -4,9 +4,6 @@ Assista o vídeo: [https://www.instagram.com/p/CgN-LxKgQs7/]
 
 ## Português
 
-Resumo (≈150 caracteres)
-AcordeLuz transforma MIDI via Bluetooth em luz em um painel WS2812, criando visualizações musicais reativas e imersivas em tempo real.
-
 ### Visão geral
 O AcordeLuz é uma obra de arte interativa que funciona como um instrumento musical visual. Ele recebe notas e controles MIDI por Bluetooth (BLE MIDI) e traduz esses eventos em padrões de luz em um painel de LEDs WS2812. O código foi projetado para painéis grandes (12 linhas × 75 colunas = 900 LEDs) e pode operar com dois módulos ESP32 controlando metades do painel (superior e inferior), anunciados como “AcordeLuz A” e “AcordeLuz B”.
 
