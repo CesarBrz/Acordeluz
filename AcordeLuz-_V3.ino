@@ -1,3 +1,5 @@
+//OBSERVAÇÃO - ESTE PROJETO FOI REALIZADO EM 2022/23
+
 //ARRAY DE MÁSCARAS - V1 -
 //Para converter bmp em array: https://lvgl.io/tools/imageconverter
 
@@ -1081,4 +1083,5 @@ void Menu ()
     }
   }
 }
+
 
