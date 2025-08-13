@@ -1,6 +1,6 @@
 # AcordeLuz – Instrumento musical visual via MIDI Bluetooth (ESP32 + WS2812)
 
-[![Assista ao vídeo](https://img.youtube.com/vi/jGk_YHF5aSk/0.jpg)](https://youtu.be/jGk_YHF5aSk)
+Assista o vídeo: [https://www.instagram.com/p/CgN-LxKgQs7/]
 
 ## Português
 
