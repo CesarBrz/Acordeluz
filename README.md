@@ -101,7 +101,7 @@ Duas placas ESP32 podem operar em conjunto (metade superior e inferior do painel
 
 ## English
 
-###Summary
+### Summary
 AcordeLuz turns Bluetooth MIDI into light on a WS2812 panel, creating reactive and immersive real‑time musical visualizations.
 
 ### Overview
