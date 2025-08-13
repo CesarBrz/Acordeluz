@@ -1,6 +1,3 @@
-//TODO
-//DESATUALIZADO!! - VERSÃO ATUALIZADA NO MACBOOK
-
 //ARRAY DE MÁSCARAS - V1 -
 //Para converter bmp em array: https://lvgl.io/tools/imageconverter
 
@@ -1084,3 +1081,4 @@ void Menu ()
     }
   }
 }
+
